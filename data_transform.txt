@@ -1,0 +1,3 @@
+-- Archivo de configuración de datos
+
+1. Filfrar datos duplicados 
